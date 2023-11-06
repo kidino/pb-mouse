@@ -21,3 +21,6 @@ It works by utilizing:
 * Open `http://localhost:8090` in your browser to run the demo
 
 The content of `/pb_migrations` will automatically create the `active_mouse` collection.
+
+<a href="https://youtu.be/zAlWP5ofmiA
+" target="_blank">**YouTube Video**</a> (https://youtu.be/zAlWP5ofmiA)
